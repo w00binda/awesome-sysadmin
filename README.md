@@ -68,8 +68,9 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
 * [Bareos](http://www.bareos.org) - A fork of Bacula backup tool.
 * [Barman](http://www.pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
-* [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
+* [Backupninja](https://0xacab.org/riseuplabs/backupninja) - Lightweight, extensible meta-backup system.
 * [Backuppc](http://backuppc.sourceforge.net/) - Client-server model backup tool with file pooling scheme.
+* [BorgBackup](https://borgbackup.readthedocs.io/en/stable/) - A deduplicating backup program, it supports compression and authenticated encryption.
 * [Brebis](http://brebisproject.org) - A fully automated backup checker.
 * [Bup](https://github.com/bup/bup) - Incremental backups with rolling checksums, git packfiles, de-duplication, and a FUSE filesystem.
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
@@ -121,10 +122,9 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 ## Cloud Computing
 
 * [AppScale](http:/github.com/AppScale/appscale) - Open source cloud software with Google App Engine compatibility.
-* [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
 * [Cobbler](http://cobbler.github.io) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
-* [Eucalyptus](https://www.eucalyptus.com/) - Open source private cloud software with AWS compatibility.
+* [Eucalyptus](https://www.eucalyptus.cloud/) - Open source private cloud software with AWS compatibility.
 * [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [Openshift Origin](https://www.openshift.org/) - Open source upstream of OpenShift, the next generation application hosting platform developed by Red Hat.
@@ -293,8 +293,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
 * [Light Table](http://www.lighttable.com/) - The next generation code editor.
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
-* [SciTE](http://www.scintilla.org/SciTE.html) - A SCIntilla based Text Editor.
-* [TextMate](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 * [Nano](http://https://www.nano-editor.org/) - A popular text editor, by default comes with most Linux distributions.
 * [Visual Studio Code](https://code.visualstudio.com/) - Fast, hackable, multi-platform code editor from Microsoft.
@@ -303,6 +301,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 *IT Assets Management software.*
 
+* [CMDBuild](https://www.cmdbuild.org/) - The open source environment for configuring customized applications for the Asset Management
 * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
 * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
 * [Netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
