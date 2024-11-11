@@ -133,7 +133,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 ## Cloud Orchestration
 
 * [BOSH](http://docs.cloudfoundry.org/bosh/) -  IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
-* [Ansible](http://www.ansible.com) - Contains modules for controlling many types of cloud resources.
+* [Ansible](http://www.ansible.com) - Contains modules for controlling many types of cloud resources. 🥇
 * [Cloudify](http://cloudify.co/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
 * [consul](http://www.consul.io/) - It is a tool for discovering and configuring services in your infrastructure.
 * [doozerd](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
@@ -409,7 +409,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 * [Seyren](https://github.com/scobal/seyren) - An alerting dashboard for Graphite.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
-* [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
+* [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications. 🥇
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 
 *Monitoring dashboards.*
@@ -435,7 +435,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 * [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
 * [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard. Transforms raw JSON into delicious UI.
 * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
-* [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
+* [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor. 🥇
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scalable graphing server.
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
 * [KairosDB](https://code.google.com/p/kairosdb/) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
