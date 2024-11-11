@@ -1,9 +1,6 @@
 # Awesome Sysadmin
 A curated list of amazingly awesome open source sysadmin resources.
 
-## Contributing
-Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
-
 ## Table of Contents
 * [Awesome Sysadmin](#awesome-sysadmin)
   * [Backups](#backups)
@@ -741,7 +738,6 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Newsletters
 
 * [Servers for Hackers](http://serversforhackers.com/) - Newsletter for programmers who find themselves needing to know their way around a server.
-* [DevOpsLinks](http://devopslinks.com) - A community of DevOps, SysAdmin & Developers with a weekly newsletter and a team chat.
 
 ## Repositories
 
